@@ -55,8 +55,3 @@ jupyter notebook notebooks/predictor.ipynb
 
 ### Top Selling Authors by Number of Books
 ![top_selling_authors_by_n_of_books](figures/top_selling_authors_by_n_of_books.png)
-
----
-
-## License
-MIT (add a LICENSE file if you want)
